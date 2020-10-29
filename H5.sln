@@ -15,6 +15,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kleurcode weerstand naar oh
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Orakeltje van Delphi, part deux", "Orakeltje van Delphi, part deux\Orakeltje van Delphi, part deux.csproj", "{561A7D48-CE75-4FD6-9481-23A789F18CAE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Casino", "Casino\Casino.csproj", "{A8BA99BF-4374-4B35-A0DF-CFE0ECD70586}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +47,10 @@ Global
 		{561A7D48-CE75-4FD6-9481-23A789F18CAE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{561A7D48-CE75-4FD6-9481-23A789F18CAE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{561A7D48-CE75-4FD6-9481-23A789F18CAE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A8BA99BF-4374-4B35-A0DF-CFE0ECD70586}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A8BA99BF-4374-4B35-A0DF-CFE0ECD70586}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A8BA99BF-4374-4B35-A0DF-CFE0ECD70586}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A8BA99BF-4374-4B35-A0DF-CFE0ECD70586}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
