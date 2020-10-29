@@ -29,6 +29,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GuntherD Stemwijzer", "Gunt
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Enum seizoenen", "Enum seizoenen\Enum seizoenen.csproj", "{F8705BD2-5E67-4B61-904F-98C8563FE467}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Enum bij BMI", "Enum bij BMI\Enum bij BMI.csproj", "{B314DEE8-0E81-4CDB-95A0-826DD6830C47}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kleurcode weerstand naar ohm, met enum", "Kleurcode weerstand naar ohm, met enum\Kleurcode weerstand naar ohm, met enum.csproj", "{148B6FF2-17AC-4F04-BF82-6A7B5836ECEB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -87,6 +91,14 @@ Global
 		{F8705BD2-5E67-4B61-904F-98C8563FE467}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F8705BD2-5E67-4B61-904F-98C8563FE467}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F8705BD2-5E67-4B61-904F-98C8563FE467}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B314DEE8-0E81-4CDB-95A0-826DD6830C47}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B314DEE8-0E81-4CDB-95A0-826DD6830C47}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B314DEE8-0E81-4CDB-95A0-826DD6830C47}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B314DEE8-0E81-4CDB-95A0-826DD6830C47}.Release|Any CPU.Build.0 = Release|Any CPU
+		{148B6FF2-17AC-4F04-BF82-6A7B5836ECEB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{148B6FF2-17AC-4F04-BF82-6A7B5836ECEB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{148B6FF2-17AC-4F04-BF82-6A7B5836ECEB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{148B6FF2-17AC-4F04-BF82-6A7B5836ECEB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
