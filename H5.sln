@@ -21,6 +21,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Casino 3", "Casino 3\Casino
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Schaakstuk", "Schaakstuk\Schaakstuk.csproj", "{5376D42B-B4AC-45B0-AC8C-E5FA2DE02C75}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Quiz", "Quiz\Quiz.csproj", "{0AFCDD52-2751-44A7-8085-ECDF20F9E65E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -63,6 +65,10 @@ Global
 		{5376D42B-B4AC-45B0-AC8C-E5FA2DE02C75}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5376D42B-B4AC-45B0-AC8C-E5FA2DE02C75}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5376D42B-B4AC-45B0-AC8C-E5FA2DE02C75}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0AFCDD52-2751-44A7-8085-ECDF20F9E65E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0AFCDD52-2751-44A7-8085-ECDF20F9E65E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0AFCDD52-2751-44A7-8085-ECDF20F9E65E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0AFCDD52-2751-44A7-8085-ECDF20F9E65E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
